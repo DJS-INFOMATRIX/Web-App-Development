@@ -20,12 +20,11 @@ Here's a glimpse of what we get up to:
 
 We dabble in a variety of technologies and tools. Here's a sneak peek at our tech stack:
 
-- **Frontend:** HTML5, CSS3, JavaScript (React, Angular, Vue)
-- **Backend:** Node.js, Express, Django
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Frontend:** HTML5, CSS3, JavaScript (React, NextJS)
+- **Backend:** Django, Node.js, Express
+- **Databases:** MySQL, MongoDB
 - **Version Control:** Git & GitHub
-- **Deployment:** Heroku, Netlify, AWS
-- **Design:** Figma, Adobe XD
+- **Deployment:** Netlify, Vercel
 
 ## 🌟 Join Us
 
