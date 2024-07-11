@@ -36,7 +36,7 @@ Stay in the loop with our latest updates, events, and projects:
 
 - **Website:** [DJS INFOMATRIX](https://djs-infomatrix-website.onrender.com/)
 - **GitHub:** [DJS INFOMATRIX GitHub](https://github.com/DJS-INFOMATRIX)
-- **Instagram:** [@djsINFOMATRIX](https://www.instagram.com/djsinfomatrix?igsh=N3VwbnhnMTM3MjZi)
+- **Instagram:** [@djsinfomatrix](https://www.instagram.com/djsinfomatrix?igsh=N3VwbnhnMTM3MjZi)
 - **LinkedIn:** [DJS INFOMATRIX](https://www.linkedin.com/company/djs-infomatrix/mycompany/)
 
 ## 🙌 Acknowledgements
