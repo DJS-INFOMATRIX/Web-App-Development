@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffcdcddb;
+    color: #ff0000;
+}
+
+header {
+    background-color: #adb3ff71;
+    color: rgb(255, 0, 0);
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: #000000;
+}
+
+.header-content {
+    padding: 60px 20px;
+}
+
+.header-content h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.header-content p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.btn {
+    background: #eb0b0b9d;
+    color: rgb(255, 255, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1em;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background: #ffff00;
+    color: #ff0000;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro, .about, .team, .programs, .contact {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #ff0000;
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: bold;  
+}
+
+.features, .team, .programs {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+
+
+section p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.feature, .team-member, .program {
+    background: rgba(255, 67, 177, 0.484);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    max-width: 300px;
+}
+
+.feature img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background: #adb3ff71;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background: #ff6f61;
+    color: rgb(255, 0, 0);
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #5560ffd3;
+    color: #ff0090;
+}
