@@ -29,14 +29,14 @@ This repository contains the source code for a responsive charity website. This 
 ## Structure
 
 The project consists of the following files:
-1. **[index.html](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/index.html) :** Essential HTML file for the website project. It represents the _Home_ page of the website.
-2. **[about.html](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/about.html) :** Content for the _About_ page giving information of the organisation.
-3. **[program.html](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/program.html) :** Program details shown on _Program_ page in card representation.
-4. **[contact.html](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/contact.html) :** Contact number, email and Form for _Contact_ page.
-5. **[donate.html](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/donate.html) :** Donation form for _Donate_ page.
-6. **[style.css](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/style.css) :** Stylesheet for representation of all the above .html files. The layouting of page is done using grid as well as flexbox and other styling properties to display the content properly.
-7. **[images](https://github.com/ChaitanyaShah26/Charity-Website/tree/main/images) :** The images folder consists of all the images used in the website.
-8. **[fonts](https://github.com/ChaitanyaShah26/Charity-Website/tree/main/fonts) :** The fonts folder consists of the different font files used within the website. The fonts are imported in style.css file through `@font-faces`.
+1. **[index.html](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/index.html) :** Essential HTML file for the website project. It represents the _Home_ page of the website.
+2. **[about.html](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/about.html) :** Content for the _About_ page giving information of the organisation.
+3. **[program.html](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/program.html) :** Program details shown on _Program_ page in card representation.
+4. **[contact.html](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/contact.html) :** Contact number, email and Form for _Contact_ page.
+5. **[donate.html](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/donate.html) :** Donation form for _Donate_ page.
+6. **[style.css](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/style.css) :** Stylesheet for representation of all the above .html files. The layouting of page is done using grid as well as flexbox and other styling properties to display the content properly.
+7. **[images](https://github.com/DJS-INFOMATRIX/Web-App-Development/tree/main/Charity_Website/CharityWebsite_ChaitanyaShah/images) :** The images folder consists of all the images used in the website.
+8. **[fonts](https://github.com/DJS-INFOMATRIX/Web-App-Development/tree/main/Charity_Website/CharityWebsite_ChaitanyaShah/fonts) :** The fonts folder consists of the different font files used within the website. The fonts are imported in style.css file through `@font-faces`.
 
 ## Technologies Used
 
@@ -48,14 +48,9 @@ The project consists of the following files:
 Kindly follow the below steps to install/run my project on your local device:
 
 1. **Clone the repository:**
-	Use the following command on your git bash/command prompt/terminal.
-   ```bash
-   git clone https://github.com/ChaitanyaShah26/Charity-Website.git
-   ```
+	Clone the repository on your local device.
 2. **Navigate to the project directory:**
-   ```bash
-   cd Charity-Website
-   ```
+   Navigate to the directory `CharityWebsite_ChaitanyaShah`.
 3. **Open `index.html` in your preferred web browser.**
 
 ## Deployment
@@ -68,9 +63,9 @@ https://chaitanyashah26.github.io/Charity-Website/
 
 ## Screenshots
 
-The screenshots of the website can be viewed in [website-previews](https://github.com/ChaitanyaShah26/Charity-Website/tree/main/website-previews) folder. 
-* Desktop view screenshots : [dekstop-view](https://github.com/ChaitanyaShah26/Charity-Website/tree/main/website-previews/desktop-view)
-* Mobile view screenshots : [mobile-view](https://github.com/ChaitanyaShah26/Charity-Website/tree/main/website-previews/mobile-view)
+The screenshots of the website can be viewed in [website-previews](https://github.com/DJS-INFOMATRIX/Web-App-Development/tree/main/Charity_Website/CharityWebsite_ChaitanyaShah/website-previews) folder. 
+* Desktop view screenshots : [dekstop-view](https://github.com/DJS-INFOMATRIX/Web-App-Development/tree/main/Charity_Website/CharityWebsite_ChaitanyaShah/website-previews/desktop-view)
+* Mobile view screenshots : [mobile-view](https://github.com/DJS-INFOMATRIX/Web-App-Development/tree/main/Charity_Website/CharityWebsite_ChaitanyaShah/website-previews/mobile-view)
 <br>
 <b>Desktop Preview of the entire website:</b> <br>
 <img src="website-previews/CharityWebsite_desktop-preview.png" alt="Desktop-Preview">
@@ -79,4 +74,4 @@ The screenshots of the website can be viewed in [website-previews](https://githu
 
 ## License
 
-[MIT](https://github.com/ChaitanyaShah26/Charity-Website/blob/main/LICENSE)
+[MIT](https://github.com/DJS-INFOMATRIX/Web-App-Development/blob/main/Charity_Website/CharityWebsite_ChaitanyaShah/LICENSE)
